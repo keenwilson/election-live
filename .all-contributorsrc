@@ -80,6 +80,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "whs",
+      "name": "Manatsawin Hanmongkolchai",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/345483?v=4",
+      "profile": "http://www.whs.in.th/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
