@@ -1,0 +1,23 @@
+{
+  "projectName": "election-live",
+  "projectOwner": "codeforthailand",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "dtinth",
+      "name": "Thai Pangsakulyanont",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/193136?v=4",
+      "profile": "http://dt.in.th/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

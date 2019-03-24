@@ -1,5 +1,7 @@
 # ELECT LIVE [![CircleCI](https://img.shields.io/circleci/project/github/codeforthailand/election-live/master.svg?logo=circleci)](https://circleci.com/gh/codeforthailand/election-live) [![Code Climate technical debt](https://img.shields.io/codeclimate/tech-debt/codeforthailand/election-live.svg)](https://codeclimate.com/github/codeforthailand/election-live/maintainability) [![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/codeforthailand/election-live.svg)](https://codeclimate.com/github/codeforthailand/election-live/maintainability)
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
 Live Scoreboard for Thailand General Election 2562 (2019).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -18,6 +20,7 @@ Live Scoreboard for Thailand General Election 2562 (2019).
   - [Use JSDoc instead of `propTypes`](#use-jsdoc-instead-of-proptypes)
 - [Build the project into a static web page](#build-the-project-into-a-static-web-page)
 - [Releasing new version](#releasing-new-version)
+- [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -226,3 +229,15 @@ yarn build
 ## Releasing new version
 
 To release a new version, run `/updateelectliveversion 1.0.0-beta.5` slash command in our development Slack channel (only available to collaborators). This will update `package.json` file and deploy to the live website, and will also cause an update bar to display on user’s screen, asking them to refresh.
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="http://dt.in.th/"><img src="https://avatars3.githubusercontent.com/u/193136?v=4" width="100px;" alt="Thai Pangsakulyanont"/><br /><sub><b>Thai Pangsakulyanont</b></sub></a><br /><a href="https://github.com/codeforthailand/election-live/commits?author=dtinth" title="Code">💻</a></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
